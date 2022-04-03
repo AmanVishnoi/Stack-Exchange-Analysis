@@ -13,7 +13,7 @@
 	- Calculating the View Count distribution(how many posts were viewed a given number of times). Also fetching the top 10 posts on data stack exchange. The graph that I have obtained is 
 	
 
-	![Post vs View Count](https://github.com/AmanVishnoi/Stack-Exchange-Analysis/blob/main/Part3/Part3b/ViewCount.jpeg)
+	![Post vs View Count](https://github.com/AmanVishnoi/Stack-Exchange-Analysis/blob/main/Part3/part3b/ViewCount.jpeg)
     
 	- To understand how servers of stack exchange were used in an efficient manner i calculated posts per Hour of the day to understand when the data were most busy.To get insights I draw graph for Activity per hour vs hour of day	
 	
