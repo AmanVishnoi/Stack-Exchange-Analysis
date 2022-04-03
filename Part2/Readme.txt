@@ -1,0 +1,1 @@
+Before running the shell scripts please take care of the path in the shell script i have placed badges.xml in the same path as my shell script so in order to run it please make changes in the path in the shell script file.
